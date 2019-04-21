@@ -2,7 +2,7 @@
 
 ## Required
 
-- Complete the [Simpsons assignment](Simpons/README.md)
+- Complete the [Simpsons assignment](Simpsons/README.md)
 
 ## Optional
 
